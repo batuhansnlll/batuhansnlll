@@ -26,7 +26,7 @@ Bilgisayar programcılığına yeni adım atan, kendini sürekli geliştirmeye o
 
 ## 📊 GitHub İstatistikleri
 
-![Batuhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhansnlll&show_icons=true&theme=tokyonight&hide_border=true)
+![Batuhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhanlll&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
