@@ -1,5 +1,5 @@
 [README_1.md](https://github.com/user-attachments/files/26367005/README_1.md)
-# Merhaba, ben Batuhansnlll 👋
+# Merhaba, ben Batuhan Şanlı 👋
 
 Bilgisayar programcılığına yeni adım atan, kendini sürekli geliştirmeye odaklanmış heyecanlı bir yazılım öğrencisiyim.
 
@@ -26,7 +26,7 @@ Bilgisayar programcılığına yeni adım atan, kendini sürekli geliştirmeye o
 
 ## 📊 GitHub İstatistikleri
 
-![Batuhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true)
+![Batuhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhansnlll&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
